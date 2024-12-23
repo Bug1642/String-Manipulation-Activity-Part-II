@@ -1,0 +1,14 @@
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Manipulation2\obj\Debug\net9.0\Manipulation2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Manipulation2\obj\Debug\net9.0\Manipulation2.AssemblyInfoInputs.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Manipulation2\obj\Debug\net9.0\Manipulation2.AssemblyInfo.cs
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Manipulation2\obj\Debug\net9.0\Manipulation2.csproj.CoreCompileInputs.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Manipulation2\bin\Debug\net9.0\Manipulation2.exe
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Manipulation2\bin\Debug\net9.0\Manipulation2.deps.json
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Manipulation2\bin\Debug\net9.0\Manipulation2.runtimeconfig.json
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Manipulation2\bin\Debug\net9.0\Manipulation2.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Manipulation2\bin\Debug\net9.0\Manipulation2.pdb
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Manipulation2\obj\Debug\net9.0\Manipulation2.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Manipulation2\obj\Debug\net9.0\refint\Manipulation2.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Manipulation2\obj\Debug\net9.0\Manipulation2.pdb
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Manipulation2\obj\Debug\net9.0\Manipulation2.genruntimeconfig.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Manipulation2\obj\Debug\net9.0\ref\Manipulation2.dll
